@@ -58,4 +58,4 @@ Identifying the client and server roles helps analysts determine attack directio
 The client–server model explains how systems communicate across a network. For SOC analysts, understanding this relationship is essential for log analysis, alert triage, and incident investigation.
 
 ## Client vs Server Diagram:
-![Client-vs-Server](`Client_vs_Server.png`)
+![Client-vs-Server](`/Client_vs_Server.png`)
