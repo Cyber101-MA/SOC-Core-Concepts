@@ -7,7 +7,7 @@ This model contrasts with traditional client-server architectures and is widely 
 
 ## Diagram
 
-![Diagram](./'Peer_to_Peer_Comunication.png') 
+![Diagram](./Peer_to_Peer_Comunication.png) 
 
 ## Network Architecture
 In a P2P network:
