@@ -1,4 +1,4 @@
-# 01: What is a Network
+# What is a Network
 
 ## Objective
 Understand what a network is, the purpose it serves, and why every SOC analyst must grasp its fundamentals.
