@@ -11,7 +11,7 @@ This diagram illustrates how a web request travels from the client to the server
 DNS resolves the destination, TCP establishes the connection, and HTTP handles the request and response.
 SOC teams monitor each stage to detect malicious intent, abnormal connections, and web-based attacks.
 
-![Diagram](./4_Request_Response_Flow.png)
+![Diagram](./Request_Response_Flow.png)
 
 ---
 ## Step-by-Step Request–Response Flow
